@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Wumpus World</label>
+	</settings>
+	<users>
+		<user>
+			<path>Wumpus World2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Wumpus World.jcp</path>
+		</project>
+	</projects>
+</workspace>
